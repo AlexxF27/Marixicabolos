@@ -1,0 +1,14 @@
+export { Home } from './Home';
+export { Products } from './Products';
+export { ProductDetail } from './ProductDetail';
+export { OrderProduct } from './OrderProduct';
+export { Checkout } from './Checkout';
+export { CustomizeProduct } from './CustomizeProduct';
+export { Login } from './Login';
+export { Register } from './Register';
+export { About } from './About';
+export { Contact } from './Contact';
+export { SendMessage } from './SendMessage';
+export { Promo } from './Promo';
+export { Profile } from './Profile';
+export { CookieSettings } from './CookieSettings';
